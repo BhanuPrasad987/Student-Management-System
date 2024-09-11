@@ -1,0 +1,50 @@
+*{
+	padding: 0;
+	margin:0;
+}
+
+
+body
+{
+	
+    background-image: url("images/pexels-tatiana-syrikova-3975572.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    background-attachment: fixed;
+   
+
+}
+#heading
+{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: serif;
+    font-size: 30px;
+    margin-top: 50px;
+    padding: 20px;
+}
+p{
+    color: rgb(0, 0, 0);
+    margin-top: 80px;
+    margin-left:300px;
+    font-family: serif;
+    font-size: 30px;
+}
+
+.smallimage
+{
+    background-image: url("hogwarts-logo.jpg");
+}
+.button
+{
+    margin-top:450px;
+    margin-left: 650px;
+    border-radius: 5px;
+}
+button{
+    padding:10px;
+    box-shadow: inset;
+    background-color: aqua;
+}
+

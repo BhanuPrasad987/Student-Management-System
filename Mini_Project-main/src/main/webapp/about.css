@@ -1,0 +1,82 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container about {
+    width: 80%;
+    margin: 0 auto;
+    padding: 3px;
+}
+
+/* Header Styles */
+.header {
+    background-color: #007BFF;
+    color: #FFF;
+    padding: 5px 0;
+}
+
+.header h1 {
+    margin: 0;
+    padding: 10px;
+}
+
+.header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+}
+
+.header nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.header nav a {
+    color: #FFF;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.header nav a:hover {
+    border-bottom: 2px solid #FFF;
+}
+
+/* About Us Section Styles */
+.background-image {
+    background-image: url('images/loginnew.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.about {
+    padding: 50px 0;
+    color:rgb(236, 247, 193);
+    text-align: center;
+    font-size: 20px;
+}
+
+.about h2 {
+    margin-top: 50px;
+    font-size: 36px;
+    color: #F0F0F0;
+}
+
+.about p {
+    font-size: 18px;
+    line-height: 1.6;
+
+}
+div.box{
+	background-color: rgb(208, 246, 242,0.5);
+	box-shadow:10px rgb(208, 246, 242);
+	padding:20px;
+	margin-top:100px;
+	margin-left: 200px;
+	border-radius: 10px;
+}
+
